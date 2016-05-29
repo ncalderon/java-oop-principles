@@ -1,2 +1,2 @@
 # java-oop-principles
-Implementing for learing purpose some OOP principles using Java
+Implementing for learning purpose some OOP principles using Java
